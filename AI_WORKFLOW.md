@@ -43,6 +43,5 @@ I:
 - Tested refresh persistence
 - Tested owner and shared-user workflows
 - Tested supported and unsupported uploads
-- Tested the deployed application in a private browser (to be done
-  after Vercel deployment — not yet deployed)
+- Tested the deployed application in a browser after Vercel deployment, including the Supabase end-to-end flow (create, auto-save, refresh/reopen, delete) on 2026-11-10
 - Verified failure and empty states manually

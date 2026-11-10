@@ -2,7 +2,9 @@
 
 ## Live Product
 
-TODO — paste the Vercel deployment URL here after deployment.
+https://ajaia-docs-five-rose.vercel.app/
+
+Live deployment uses Supabase Postgres (project `ajaia-docs`, US East, tables `users` / `documents` / `document_shares`, seeded with Avery Johnson and Jordan Lee). End-to-end verified 2026-11-10: create, auto-save, refresh/reopen, and delete all work against real Postgres.
 
 ## Walkthrough Video
 
@@ -11,7 +13,7 @@ TODO — paste the Loom or YouTube URL here after recording (3–5 minutes).
 ## Source Code
 
 Included in this folder and available at:
-https://github.com/Sravanthipanga/ajaia-docs (private repo — push pending; see below)
+https://github.com/Sravanthipanga/ajaia-docs
 
 ## Test Accounts
 
@@ -43,7 +45,7 @@ Use the user switcher in the application. No password is required.
 - View and edit permissions
 - Validation and error handling
 - Automated tests
-- Live deployment (TODO — deploy to Vercel)
+- Live deployment — https://ajaia-docs-five-rose.vercel.app/ (Supabase Postgres, verified end to end 2026-11-10)
 
 ## Intentional Limitations
 

@@ -2,7 +2,9 @@
 
 ## Live Application
 
-TODO — paste the Vercel deployment URL here after deployment.
+https://ajaia-docs-five-rose.vercel.app/
+
+Live deployment uses Supabase Postgres (project `ajaia-docs`, US East) — see "Demo mode" below for the local fallback when Supabase is not configured.
 
 ## Walkthrough Video
 
