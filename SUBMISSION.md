@@ -8,7 +8,7 @@ Live deployment uses Supabase Postgres (project `ajaia-docs`, US East, tables `u
 
 ## Walkthrough Video
 
-https://www.loom.com/share/b17fcd54e86b4bbfaa7b03469b1ab3c3
+https://drive.google.com/file/d/11Slia5--u4ogNxQ0uJeDRBEoMlmPWJCy/view
 
 ## Source Code
 
@@ -29,7 +29,8 @@ Use the user switcher in the application. No password is required.
 - architecture.md
 - AI_WORKFLOW.md
 - walkthrough-url.txt
-- Screenshots (TODO — add after deployment)
+- Screenshots (`screenshots/`): `01-home-my-documents.png`, `02-editor.png`, `03-share-dialog.png`
+- Walkthrough video file (`Ajaia Docs_ Collaborative Editor with Autosave.mp4`, 12 MB, 8:04) — also on Loom, see Walkthrough Video above
 - Database schema (`supabase/schema.sql`)
 - Automated tests (`tests/`)
 

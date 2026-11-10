@@ -8,7 +8,7 @@ Live deployment uses Supabase Postgres (project `ajaia-docs`, US East) — see "
 
 ## Walkthrough Video
 
-https://www.loom.com/share/b17fcd54e86b4bbfaa7b03469b1ab3c3
+https://drive.google.com/file/d/11Slia5--u4ogNxQ0uJeDRBEoMlmPWJCy/view
 
 ## Overview
 
