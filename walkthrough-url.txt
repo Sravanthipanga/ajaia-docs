@@ -1,2 +1,2 @@
-Walkthrough video URL: TODO — record a 3–5 minute Loom walkthrough and paste the URL here.
+Walkthrough video URL: https://www.loom.com/share/b17fcd54e86b4bbfaa7b03469b1ab3c3
 Live product URL: https://ajaia-docs-five-rose.vercel.app/

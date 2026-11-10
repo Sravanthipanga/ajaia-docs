@@ -8,7 +8,7 @@ Live deployment uses Supabase Postgres (project `ajaia-docs`, US East, tables `u
 
 ## Walkthrough Video
 
-TODO — paste the Loom or YouTube URL here after recording (3–5 minutes).
+https://www.loom.com/share/b17fcd54e86b4bbfaa7b03469b1ab3c3
 
 ## Source Code
 
@@ -65,6 +65,6 @@ See the build report for the exact output.
 
 - Add Supabase authentication and RLS
 - Add optimistic updates
-- Add document deletion and confirmation (already implemented; polish the flow)
+- Polish the document-delete confirmation flow (delete is already implemented)
 - Add Markdown export
 - Add conflict/version handling

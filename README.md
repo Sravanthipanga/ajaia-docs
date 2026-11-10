@@ -8,7 +8,7 @@ Live deployment uses Supabase Postgres (project `ajaia-docs`, US East) — see "
 
 ## Walkthrough Video
 
-TODO — paste the Loom walkthrough URL here after recording (3–5 minutes).
+https://www.loom.com/share/b17fcd54e86b4bbfaa7b03469b1ab3c3
 
 ## Overview
 
