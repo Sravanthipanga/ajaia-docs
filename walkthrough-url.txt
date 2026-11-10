@@ -1,0 +1,2 @@
+Walkthrough video URL: TODO — record a 3–5 minute Loom walkthrough and paste the URL here.
+Live product URL: TODO — paste the Vercel deployment URL here after deployment.
