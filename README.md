@@ -10,6 +10,20 @@ Live deployment uses Supabase Postgres (project `ajaia-docs`, US East) — see "
 
 https://drive.google.com/file/d/11Slia5--u4ogNxQ0uJeDRBEoMlmPWJCy/view
 
+## Screenshots
+
+![Home — My Documents](screenshots/01-home-my-documents.png)
+
+*Home — "My Documents" and "Shared With Me" lists, with the seeded-user switcher, Import File and New Document actions*
+
+![Rich-text editor](screenshots/02-editor.png)
+
+*Rich-text editor — Tiptap toolbar (bold, italic, underline, headings, lists, undo/redo) with Share and Delete actions*
+
+![Share dialog](screenshots/03-share-dialog.png)
+
+*Share dialog — grant a user edit or view access and manage who the document is already shared with*
+
 ## Overview
 
 Ajaia Docs is a lightweight collaborative document editor built with Next.js, TypeScript, Tiptap, Supabase, and Vercel. It prioritises a complete document workflow — creation, rich-text editing, persistence, import, and sharing — over attempting to reproduce every Google Docs feature.
